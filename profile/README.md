@@ -5,10 +5,9 @@ Our satellite data products and services can support research, resource manageme
 
 This NOAA CoastWatch Learning Portal Repositories house most recent CoastWatch learning resources including code samples and training moduels .
 
-## Repositories
-**<a href="https://github.com/noaa-coastwatch/Code-Modules">Code Modules</a>** has training modules with sample codes in R and Python.
+## Repository
+**<a href="https://github.com/coastwatch-training/CoastWatch-Tutorials">CoastWatch-Tutorials**  has training modules with sample codes in R and Python.
 
-**<a href="">Tutorials** has reading materials on How-tos? (i dont know.. just making it up)
 ## Links
 * <a href="https://umd.instructure.com/courses/1336575">CoastWatch Learning Portal</a>
 * <a href="https://coastwatch.noaa.gov/cwn/learning-portal.html">Upcoming CoastWatch trainings/classes</a>
