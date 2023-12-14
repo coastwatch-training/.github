@@ -14,4 +14,4 @@ The CoastWatch Learning Portal Repositories house most recent CoastWatch learnin
 
 
 ## Questions?
-For questions or more information about CoastWatch and the satellite training classes, please create an issue here.
+For questions or more information about CoastWatch and the satellite training classes, please <a href="https://github.com/coastwatch-training/.github/issues">create an issue here</a>.
