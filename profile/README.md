@@ -6,13 +6,13 @@ The CoastWatch Learning Portal Repositories house most recent CoastWatch learnin
 
 ## Repositories
 
-**<a href="https://github.com/coastwatch-training/CoastWatch-Tutorials">CoastWatch-Tutorials</a>** - training modules with sample codes in R and Python
+**<a href="https://coastwatch-training.github.io/tutorials/">CoastWatch-Tutorials</a>** - training modules with sample codes in R and Python
 
 **<a href="https://github.com/coastwatch-training/CoastWatch-Utilities">CoastWatch-Utilities</a>** - a training course for the CoastWatch Utilities software for manipulating and rendering CoastWatch data
 
 ## Links
-* <a href="https://umd.instructure.com/courses/1336575">CoastWatch Learning Portal</a>
-* <a href="https://umd.instructure.com/courses/1336575/pages/coastwatch-satellite-course">Upcoming CoastWatch trainings/classes</a>
+* <a href="https://coastwatch-training.github.io/">CoastWatch Training Website</a>
+* <a href="https://coastwatch-training.github.io/trainings/upcoming/upcomingtrainings.html">Upcoming CoastWatch trainings/classes</a>
 
 ## Questions?
 For questions or more information about CoastWatch and the satellite training classes, please <a href="https://github.com/coastwatch-training/.github/issues">create an issue here</a>.
